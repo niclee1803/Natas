@@ -1,5 +1,5 @@
 # Natas2
-Upon inspecting element, I find that there is an image element as shown below
+Upon inspecting HTML source, I find that there is an image element as shown below
 ```html
 <img src="files/pixel.png">
 ```
