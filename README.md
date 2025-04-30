@@ -1,2 +1,2 @@
 # Natas
-My notes for Overthewire natas
+My notes for Overthewire game natas
