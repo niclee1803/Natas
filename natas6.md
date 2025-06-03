@@ -40,4 +40,4 @@ Input secret: <input name=secret><br>
 ```
 
 
-go to http://natas6.natas.labs.overthewire.org/ and find the secret, enter in the form and submit
+go to http://natas6.natas.labs.overthewire.org/secret.inc and find the secret, enter in the form and submit
