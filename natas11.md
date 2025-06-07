@@ -97,9 +97,9 @@ Why does this work? According to the rules of XOR, it does!
 A XOR B = C    
 A XOR C = B    
 
-After we get the key, we can reverse engineer the desired array to get the cookie we want.
-Paste the cookie into developer tools and refresh the browser
-We can see that the app gives the password for next level only when it decodes an array with "showpassword" set to "yes"
+After we get the key, we can reverse engineer the desired array to get the cookie we want.    
+Paste the cookie into developer tools and refresh the browser     
+We can see that the app gives the password for next level only when it decodes an array with "showpassword" set to "yes"     
 
 ## Key takeaways
 ### XOR is reversible, it can be vulnerable if
